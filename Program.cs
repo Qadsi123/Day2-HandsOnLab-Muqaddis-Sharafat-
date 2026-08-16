@@ -7,5 +7,6 @@ class Program
         EmployeeManagement.Show();
         StudentResult.Show();
         ProductInventory.Show();
+        Console.WriteLine("Search Feature Added");
     }
 }
